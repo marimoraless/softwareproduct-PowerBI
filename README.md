@@ -2,35 +2,31 @@
 
 ---
 
-## 📌 Descrição do Projeto  
+## Descrição do Projeto  
 Este repositório contém um **projeto desenvolvido em Power BI**, com análise e visualização de dados.  
 
 O projeto inclui:  
 - 📈 **Modelagem e análise de dados**  
-- 🗂️ **Organização das fontes de informação**  
 - 🎨 **Dashboards no Power BI**  
-- 🔎 **Análise dos dados**  
+- 🔎 **Análise dos dados**
+- xxxxxxxxxxxxxx
 
 ---
 
 ## 📝 Estrutura de Entregas  
 O projeto será desenvolvido através de 3 AC's e entrega final:  
-- **AC1** → NOME DO DASH, OU A COLUNA (habilidades)  
+- **AC1** → NOME DO DASH, OU A COLUNA (habilidades)  ▶️ Vídeo no YouTube : (link do youtube )
 - **AC2** → xxxxxxxxx  
 - **AC3** → xxxxxxxxxx  
 - **Prova (Entrega Final)** → xxxxxxx  
 
 ---
 
-## ▶️ Vídeo no YouTube  
-(link do youtube )  
-
----
-
-## 🛠️ Tecnologias Utilizadas  
+## Tecnologias Utilizadas  
 - **Power BI**  
-- **Excel (pré-processamento dos dados)**  
-- **GitHub (documentação e versionamento)**  
+- **Excel**
+- **Clickup** 
+- **GitHub**
 
 ---
 
@@ -40,6 +36,7 @@ O projeto será desenvolvido através de 3 AC's e entrega final:
 - `README.md` → Apresentação do projeto  
 
 ---
+▶️ Vídeo no YouTube : (link do youtube )  
 
 **Faculdade Impacta de Tecnologia**  
 
