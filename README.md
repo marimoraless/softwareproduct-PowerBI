@@ -42,7 +42,6 @@ O projeto será desenvolvido em 3 (ACs) e uma Prova - Entrega Final:
 * Thiago Bueno de Souza – RA: 2302979
 * Vinícius Cruz Matheus – RA: 7100639
 
----
 
 
 
