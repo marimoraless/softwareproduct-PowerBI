@@ -1,51 +1,48 @@
-## Projeto Power BI – Software Product: Analysis, Specification, Project & Implementation  
+## 📊 Projeto Power BI – Software Product: Analysis, Specification, Project & Implementation
+
+### Descrição do Projeto:
+
+Este repositório apresenta o desenvolvimento de um **Dashboard no Power BI**, realizado como parte da disciplina Software Product: Analysis, Specification, Project & Implementation da Faculdade Impacta. 
 
 ---
 
-## Descrição do Projeto  
-Este repositório contém um **projeto desenvolvido em Power BI**, com análise e visualização de dados.  
+### Estrutura de Entregas:
 
-O projeto inclui:  
-- 📈 **Modelagem e análise de dados**  
-- 🎨 **Dashboards no Power BI**  
-- 🔎 **Análise dos dados**
-- xxxxxxxxxxxxxx
+O projeto será desenvolvido em 3 (ACs) e uma Prova - Entrega Final: 
+
+* **AC1 – Habilidades** (14/09/2025) ▶️ Vídeo no YouTube: https://youtu.be/CJxUpaQgHv0
 
 ---
 
-## 📝 Estrutura de Entregas  
-O projeto será desenvolvido através de 3 AC's e entrega final:  
-- **AC1** → NOME DO DASH, OU A COLUNA (habilidades)  ▶️ Vídeo no YouTube : (link do youtube )
-- **AC2** → xxxxxxxxx  
-- **AC3** → xxxxxxxxxx  
-- **Prova (Entrega Final)** → xxxxxxx  
+### Tecnologias Utilizadas:
+
+* **Power BI** → Criação e análise do dashboard;
+* **Excel** → Base de dados;
+* **ClickUp** → Gestão de tarefas e organização do time;
+* **GitHub** → Controle de versão e compartilhamento do projeto.
 
 ---
 
-## Tecnologias Utilizadas  
-- **Power BI**  
-- **Excel**
-- **Clickup** 
-- **GitHub**
+### Estrutura do Repositório:
+
+* `Projeto_ADS.pbix` → Dashboard no Power BI
+* `CHA_Report.xlsx` → Base de dados em Excel
+* `README.md` → Documentação do projeto
 
 ---
 
-## 📂 Estrutura do Repositório  
-- `/nome do arquivo` → Dashboard do Power BI  
-- `/nome do arquivo` → Base de dados utilizada Excel  
-- `README.md` → Apresentação do projeto  
+**Professor:** Antonio de Oliveira Dias
+
+### 👥 Integrantes do Grupo
+
+* Éde Carlos Viana Machado – RA: 2302423
+* Felipe Cassola – RA: 2302613
+* Maria Julia Latorre de Britto – RA: 2401590
+* Mariana Morales – RA: 2302866
+* Thiago Bueno de Souza – RA: 2302979
+* Vinícius Cruz Matheus – RA: 7100639
 
 ---
-▶️ Vídeo no YouTube : (link do youtube )  
 
-**Faculdade Impacta de Tecnologia**  
 
-**Professor:** Antonio de Oliveira Dias  
 
-**Integrantes do Grupo:**
-- **Éde Carlos Viana Machado** – RA: 2302423  
-- **Felipe Cassola** – RA: 2302613  
-- **Maria Julia Latorre de Britto** – RA: 2401590  
-- **Mariana Morales** – RA: 2302866  
-- **Thiago Bueno de Souza** – RA: 2302979  
-- **Vinícius Cruz Matheus** – RA: 7100639  
