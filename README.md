@@ -3,7 +3,7 @@
 ---
 
 ### Descrição do Projeto:  
-Este repositório contém um **projeto desenvolvido em Power BI**, com análise e visualização de dados.  
+Este repositório contém um projeto desenvolvido no Power BI, com análise e visualização de dados.  
 
 O projeto inclui:  
 - 📈 **Modelagem e análise de dados**  
