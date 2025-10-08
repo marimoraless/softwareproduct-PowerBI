@@ -2,43 +2,32 @@
 
 ---
 
-## Descrição do Projeto  
+### Descrição do Projeto:  
 Este repositório contém um **projeto desenvolvido em Power BI**, com análise e visualização de dados.  
 
 O projeto inclui:  
 - 📈 **Modelagem e análise de dados**  
 - 🎨 **Dashboards no Power BI**  
-- 🔎 **Análise dos dados**
-- xxxxxxxxxxxxxx
+
+
 
 ---
 
-## 📝 Estrutura de Entregas  
+### 📝 Estrutura de Entregas:  
 O projeto será desenvolvido através de 3 AC's e entrega final:  
-- **AC1** → NOME DO DASH, OU A COLUNA (habilidades)  ▶️ Vídeo no YouTube : (link do youtube )
-- **AC2** → xxxxxxxxx  
-- **AC3** → xxxxxxxxxx  
-- **Prova (Entrega Final)** → xxxxxxx  
+- **AC1** → Habilidades  ▶️ Vídeo no YouTube: https://youtu.be/CJxUpaQgHv0
+- **AC2** → Atitudes     ▶️ Vídeo no YouTube: https://youtu.be/FMasKdnbLs4
 
 ---
 
-## Tecnologias Utilizadas  
+### Tecnologias Utilizadas:  
 - **Power BI**  
 - **Excel**
 - **Clickup** 
 - **GitHub**
-
 ---
 
-## 📂 Estrutura do Repositório  
-- `/nome do arquivo` → Dashboard do Power BI  
-- `/nome do arquivo` → Base de dados utilizada Excel  
-- `README.md` → Apresentação do projeto  
-
----
-▶️ Vídeo no YouTube : (link do youtube )  
-
-**Faculdade Impacta de Tecnologia**  
+### **Faculdade Impacta de Tecnologia**  
 
 **Professor:** Antonio de Oliveira Dias  
 
