@@ -18,6 +18,7 @@ O projeto será desenvolvido através de 3 AC's e entrega final:
 - **AC1** → Habilidades  ▶️ Vídeo no YouTube: https://youtu.be/CJxUpaQgHv0
 - **AC2** → Atitudes     ▶️ Vídeo no YouTube: https://youtu.be/FMasKdnbLs4
 - **AC3** → Conhecimentos▶️ Vídeo no YouTube: https://youtu.be/lUHHUUipvUw
+- **Entrega Final** → ▶️ Vídeo no YouTube: https://youtu.be/aDmAauPFXBM
 ---
 
 ### Tecnologias Utilizadas:  
